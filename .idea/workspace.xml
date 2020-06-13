@@ -11,29 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8100fa7-08de-4491-9ee9-926ee5b80e8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-128x128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-384x384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/icon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoSection.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +64,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/icons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work-dashboard" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -202,7 +182,8 @@
       <workItem from="1591393331397" duration="3250000" />
       <workItem from="1591399024979" duration="1604000" />
       <workItem from="1591401483414" duration="8352000" />
-      <workItem from="1591518476350" duration="13509000" />
+      <workItem from="1591518476350" duration="16031000" />
+      <workItem from="1591888766989" duration="2629000" />
     </task>
     <servers />
   </component>
@@ -231,10 +212,10 @@
       <screen x="0" y="41" width="3840" height="2119" />
     </state>
     <state x="2482" y="730" width="786" height="747" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.41.3840.2119@0.41.3840.2119" timestamp="1590258548110" />
-    <state x="2524" y="744" key="FileChooserDialogImpl" timestamp="1590491884976">
+    <state x="2524" y="744" key="FileChooserDialogImpl" timestamp="1591888982520">
       <screen x="0" y="41" width="3840" height="2119" />
     </state>
-    <state x="2524" y="744" key="FileChooserDialogImpl/0.41.3840.2119@0.41.3840.2119" timestamp="1590491884976" />
+    <state x="2524" y="744" key="FileChooserDialogImpl/0.41.3840.2119@0.41.3840.2119" timestamp="1591888982520" />
     <state width="554" height="1249" key="GridCell.Tab.0.bottom" timestamp="1591398659351">
       <screen x="0" y="41" width="3840" height="2119" />
     </state>
