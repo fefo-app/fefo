@@ -1,8 +1,9 @@
 import React from "react";
-import {CheckboxMultiple} from "@styled-icons/remix-fill/CheckboxMultiple";
+import { CheckboxMultiple } from "@styled-icons/remix-fill/CheckboxMultiple";
 import styled from "styled-components";
 import cx from "classnames";
-import {Section} from "../types";
+import { Section } from "../types";
+import togglLogo from "./toggl.png";
 
 const StyleWrapper = styled.menu`
   width: 64px;
@@ -42,32 +43,31 @@ const StyleWrapper = styled.menu`
 
 `
 
-const togglLogo = "https://toggl.com/common/images/share/favicon/favicon-192x192-29519727140c0d39a540787154c03a2f.png";
 const menuItems = [
-    {
-        icon: (<img src={togglLogo}/>),
-        section: Section.ToggleDashboard
-    },
-    {
-        icon: (<CheckboxMultiple size={36}/>),
-        section: Section.TodoApp
-    }
+  {
+    icon: (<img src={togglLogo} />),
+    section: Section.ToggleDashboard
+  },
+  {
+    icon: (<CheckboxMultiple size={36} />),
+    section: Section.TodoApp
+  }
 ]
 
 export interface MenuProps {
-    activeSection: Section
-    onSectionChange: (section: Section ) => void
+  activeSection: Section
+  onSectionChange: (section: Section) => void
 }
 
-export const Menu = ({activeSection, onSectionChange}: MenuProps) => (<StyleWrapper>
+export const Menu = ({ activeSection, onSectionChange }: MenuProps) => (<StyleWrapper>
 
-    <ul>
-        {menuItems.map(({icon, section}) => (
-            <li className={cx(activeSection === section && 'active')}
-                key={section}
-                onClick={() => onSectionChange(section)}>
-                {icon}
-            </li>
-        ))}
-    </ul>
+  <ul>
+    {menuItems.map(({ icon, section }) => (
+      <li className={cx(activeSection === section && 'active')}
+        key={section}
+        onClick={() => onSectionChange(section)}>
+        {icon}
+      </li>
+    ))}
+  </ul>
 </StyleWrapper>)
